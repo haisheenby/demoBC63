@@ -53,3 +53,6 @@ git branch -m <tên branch mới> => đổi tên branch
 
 git branch -D <tên branch> => xóa branch
 => đứng ở branch khác mới có thể xóa đc
+
+# git pull 
+git pull origin main => pull code mới nhất về
