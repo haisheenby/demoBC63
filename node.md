@@ -17,3 +17,9 @@ git add -A (Đưa những file đã thay đổi, ngoại trừ vừa tạo mới
 
 # add commit
 git commit -m "nội dung commit"
+
+# Connect local repo với remote repo
+git remote add origin <link git repo>
+
+# push code từ local repo lên remote repo
+git push -u origin main
